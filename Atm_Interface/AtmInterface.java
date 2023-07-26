@@ -26,7 +26,7 @@ public class AtmInterface {
 
     public static void main(String[] args) {
 
-        System.out.println("\n**WELCOME TO SBI ATM SYSTEM**\n");
+        System.out.println("\n**WELCOME TO ATM SYSTEM**\n");
         System.out.println("1.Register \n2.Exit");
         System.out.print("Enter Your Choice - ");
         int choice = takeIntegerInput(2);
